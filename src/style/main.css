@@ -58,13 +58,13 @@ a {
 
 .searchBar {
   position: absolute;
-  right: 0px;
+  left: 250px;
   top: 0;
-  width: 60%;
+  width: 80%;
 }
 
 .searchBar input {
-  width: 40%;
+  width: calc(48% - 50px);
 }
 
 .searchButton {
